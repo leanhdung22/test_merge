@@ -1,7 +1,4 @@
 hell
 hell2
-<<<<<<< HEAD
 hell3
-=======
 hell2.2
->>>>>>> nhanh2
